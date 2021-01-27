@@ -50,7 +50,10 @@ python train_traj_measure_net.py
 
 
 ## Tracking:
-for got-10k and LaSOT dataset: 
+
+download pre-trained **Traj-Evaluation-Network** [[]()] and **Dynamic-TANet-Model** [[]()]
+
+take got-10k and LaSOT dataset as the examples: 
 ~~~
 python testing.py -d GOT10k -t SiamRPN --lb_type ensemble
 
@@ -67,7 +70,7 @@ Experimental results on the compared tracking benchmarks
 
 [[LaSOT](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/Ec99MGQJXlJEjJFtpn7tJzoBTl77yVKt4wBOd9amXWR5lQ?e=u0eShJ)]
 [[OxUvA](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/Efqz3Y2KSVdCnEl0ephudGQBNELXW7dgESWfvGmmdVVFyQ?e=D049Wf)]
-
+[[GOT-10k](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EbUB51geqFJEupM70SY6lfYBRkMAgKjfpH9MB6dlPKWzMg?e=kkuB6f)]
 
 
 
