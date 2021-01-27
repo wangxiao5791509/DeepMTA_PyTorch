@@ -29,7 +29,7 @@ bash benchmark/make_toolkits.sh
 ## Download Dataset and Model: 
 get the pre-trained model from: [[onedrive]()];  
 
-get the dataset OTB2015, GOT-10k, LaSOT, UAV123, UAV20L, OxUvA. 
+get the dataset OTB2015, GOT-10k, LaSOT, UAV123, UAV20L, OxUvA from [[List](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/download_links_for_tracking_datasets.txt)]. 
 
 
 ## Train: 
