@@ -72,7 +72,7 @@ Experimental results on the compared tracking benchmarks can be found at [[onedr
 
 
 ### Tracking Results: 
-![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/lasot_results.jpg)
+![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/lasot_result.png)
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/trackingresults_vis.jpg)
 
 
