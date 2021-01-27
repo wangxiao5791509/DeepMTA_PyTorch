@@ -32,18 +32,59 @@ get the pre-trained model from: [[onedrive]()];
 get the dataset OTB2015, GOT-10k, LaSOT, UAV123, UAV20L, OxUvA. 
 
 
+## Train: 
+1. you can directly use the pre-trained tracking model of THOR [[github](https://github.com/xl-sr/THOR)]; 
+
+2. train Dynamic Target-aware Attention: 
+~~~
+cd ~/DeepMTA_TCSVT_project/trackers/dcynet_modules_adaptis/ 
+python train.py
+~~~
+
+3. train Trajectory Evaluation Network: 
+~~~
+python train_traj_measure_net.py
+~~~
+
+
+
+
+## Tracking:
+for got-10k and LaSOT dataset: 
+~~~
+python testing.py -d GOT10k -t SiamRPN --lb_type ensemble
+
+python testing.py -d LaSOT -t SiamRPN --lb_type ensemble
+~~~
+
+
+
+
+
+
+### Benchmark Results: 
+Experimental results on the compared tracking benchmarks can be found at [[onedrive]()]. 
+
+
+
 
 
 
 
 ### Tracking Results: 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/lasot_results.jpg)
-
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/trackingresults_vis.jpg)
+
+
+
+
 
 
 ### Acknowledgement:
 Our tracker is developed based on **THOR** which is published on BMVC-2019 [[Paper](https://arxiv.org/pdf/1907.12920.pdf)] [[Code](https://github.com/xl-sr/THOR)]
+
+
+
 
 
 ### Citation: 
