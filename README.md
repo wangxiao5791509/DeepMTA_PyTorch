@@ -11,10 +11,40 @@ Most of the existing single object trackers track the target in a unitary local 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/pipeline.png)
 
 
+
+
+## Install: 
+~~~
+git clone https://github.com/wangxiao5791509/DeepMTA_PyTorch
+cd DeepMTA_TCSVT_project
+
+# create the conda environment
+conda env create -f environment.yml
+conda activate deepmta
+
+# build the vot toolkits
+bash benchmark/make_toolkits.sh
+~~~
+
+## Download Dataset and Model: 
+get the pre-trained model from: [[onedrive]()];  
+
+get the dataset OTB2015, GOT-10k, LaSOT, UAV123, UAV20L, OxUvA. 
+
+
+
+
+
+
 ### Tracking Results: 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/lasot_results.jpg)
 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/trackingresults_vis.jpg)
+
+
+### Acknowledgement:
+Our tracker is developed based on **THOR** which is published on BMVC-2019 [[Paper](https://arxiv.org/pdf/1907.12920.pdf)] [[Code](https://github.com/xl-sr/THOR)]
+
 
 ### Citation: 
 If you find this paper useful for your research, please consider to cite our paper:
