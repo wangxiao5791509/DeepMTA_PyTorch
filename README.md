@@ -1,6 +1,6 @@
 # DeepMTA_PyTorch
 
-### Officical PyTorch Implementation of "Dynamic Attention-guided Multi-TrajectoryAnalysis for Single Object Tracking", Xiao Wang, Zhe Chen, Jin Tang, Bin Luo, Yaowei Wang, Yonghong Tian, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT 2021) [[Paper](https://ieeexplore.ieee.org/document/9345930)] [[Project](https://sites.google.com/view/mt-track/home)] 
+### Officical PyTorch Implementation of "Dynamic Attention-guided Multi-TrajectoryAnalysis for Single Object Tracking", Xiao Wang, Zhe Chen, Jin Tang, Bin Luo, Yaowei Wang, Yonghong Tian, Feng Wu, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT 2021) [[Paper](https://ieeexplore.ieee.org/document/9345930)] [[Project](https://sites.google.com/view/mt-track/home)] 
 
 
 ## Abstract: 
@@ -99,8 +99,9 @@ If you find this paper useful for your research, please consider to cite our pap
 ~~~
 @inproceedings{wang2021deepmta,
  title={Dynamic Attention guided Multi-Trajectory Analysis for Single Object Tracking},
- author={Xiao, Wang and Zhe, Chen and Jin, Tang and Bin, Luo and Yaowei, Wang and Yonghong, Tian},
+ author={Xiao, Wang and Zhe, Chen and Jin, Tang and Bin, Luo and Yaowei, Wang and Yonghong, Tian and Feng, Wu},
  booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+ doi={10.1109/TCSVT.2021.3056684}, 
  year={2021}
 }
 ~~~
