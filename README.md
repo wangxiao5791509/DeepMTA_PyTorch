@@ -81,9 +81,14 @@ Experimental results on the compared tracking benchmarks
 
 
 ### Tracking Results: 
+
+#### Tracking results on LaSOT dataset. 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/lasot_result.png)
+
+#### Tracking results on TNL2K dataset. 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/benchmarkresults.png)
 
+#### Attention prediciton and Tracking Results. 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/attention_supplement.jpg)
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/trackingresults_vis.jpg)
 
