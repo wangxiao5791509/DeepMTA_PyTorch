@@ -82,6 +82,8 @@ Experimental results on the compared tracking benchmarks
 
 ### Tracking Results: 
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/lasot_result.png)
+![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/benchmarkresults.png)
+
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/attention_supplement.jpg)
 ![fig-1](https://github.com/wangxiao5791509/DeepMTA_PyTorch/blob/master/figures/trackingresults_vis.jpg)
 
