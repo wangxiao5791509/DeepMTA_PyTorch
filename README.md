@@ -98,7 +98,13 @@ Experimental results on the compared tracking benchmarks
 
 
 ### Acknowledgement:
-Our tracker is developed based on **THOR** which is published on BMVC-2019 [[Paper](https://arxiv.org/pdf/1907.12920.pdf)] [[Code](https://github.com/xl-sr/THOR)]
+Our tracker is developed based on **THOR** which is published on BMVC-2019 [[Paper](https://arxiv.org/pdf/1907.12920.pdf)] [[Code](https://github.com/xl-sr/THOR)] 
+
+
+### Other related works: 
+* MTP: Multi-hypothesis Tracking and Prediction for Reduced Error Propagation, Xinshuo Weng, Boris Ivanovic, and Marco Pavone [[Paper](https://arxiv.org/pdf/2110.09481.pdf)] [[Code](https://www.xinshuoweng.com/projects/MTP/)] 
+* D.-Y. Lee, J.-Y. Sim, and C.-S. Kim, “Multihypothesis trajectory analysis for robust visual tracking,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 5088–5096. [[Paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Lee_Multihypothesis_Trajectory_Analysis_2015_CVPR_paper.pdf)] 
+* C. Kim, F. Li, A. Ciptadi, and J. M. Rehg, “Multiple hypothesis tracking revisited,” in Proceedings of the IEEE International Conference on Computer Vision, 2015, pp. 4696–4704. [[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kim_Multiple_Hypothesis_Tracking_ICCV_2015_paper.pdf)]
 
 
 
