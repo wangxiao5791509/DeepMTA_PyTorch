@@ -122,6 +122,6 @@ If you find this paper useful for your research, please consider to cite our pap
 }
 ~~~
 
-If you have any questions about this work, please contact with me via: wangx03@pcl.ac.cn or wangxiaocvpr@foxmail.com 
+If you have any questions about this work, please contact with me via wangxiaocvpr@foxmail.com 
 
 
